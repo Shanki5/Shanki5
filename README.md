@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Shanki5
+- 👋 Hi, I’m Shankrith Chokkalingam S
 - 👀 I’m interested in technology
 - 🌱 I’m currently learning ML
 - 💞️ I’m looking to collaborate on C++
